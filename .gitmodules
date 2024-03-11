@@ -1,0 +1,3 @@
+[submodule "cpp_dyn_bitsets"]
+	path = cpp_dyn_bitsets
+	url = https://github.com/t3vs-q2da/cpp_dyn_bitsets.git
